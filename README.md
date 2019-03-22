@@ -160,7 +160,7 @@ bash install.sh
 
 安装（这里保持最新版本）
 ~~~
-bash <(curl -L -s  https://raw.githubusercontent.com/ximliu/alliswell2day-v2ray-core-back-up/blob/master/release/install-release.sh) --panelurl https://xxxx --panelkey xxxx --nodeid 21
+bash <(curl -L -s  https://raw.githubusercontent.com/ximliu/alliswell2day-v2ray-core-back-up/master/release/install-release.sh) --panelurl https://xxxx --panelkey xxxx --nodeid 21
 ~~~
 
 后续升级（如果要更新到最新版本）
